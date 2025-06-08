@@ -1,4 +1,4 @@
-## Oiee, seja bem vindo(a).
+## Oiee, seja bem vindo(a)
 
 **`Desenvolvedor de Sistemas`**
 
