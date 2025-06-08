@@ -2,12 +2,12 @@
 
 **`Desenvolvedor de Sistemas`**
 
-Olá! Meu nome é Gustavo , tenho 20 anos e moro em Ribeirão das Neves, Minas Gerais.
+Olá! Meu nome é Gustavo, tenho 20 anos e moro em Ribeirão das Neves, Minas Gerais.
 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Tenho grande interesse pela área da tecnologia e estou sempre em busca de aprender novas ferramentas e linguagens que me ajudem a evoluir como desenvolvedor
 
 ---
 
-###  Linguagens e Tecnologias
+### Linguagens e Tecnologias
 <img 
     align="left" 
     alt="Python" 
@@ -73,9 +73,20 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
 />
 
+<br/>
+<br/>
 
-<br/>
-<br/>
+### Estatísticas
+
+<p>
+
+<div>
+  <a href="https://github.com/gustavoandrade20">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavoandrade20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoandrade20&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
+
 
 
 
