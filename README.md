@@ -1,91 +1,16 @@
-## Oiee, seja bem vindo(a)
+## 👋 Olá, sou Gustavo Andrade!
 
-**`Desenvolvedor de Sistemas`**
-
-Olá! Meu nome é Gustavo, tenho 20 anos e moro em Ribeirão das Neves, Minas Gerais.
-Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Tenho grande interesse pela área da tecnologia e estou sempre em busca de aprender novas ferramentas e linguagens que me ajudem a evoluir como desenvolvedor
+🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá  
+💻 Apaixonado por tecnologia, back-end e automações  
+📍 Ribeirão das Neves, MG  
 
 ---
 
-### Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="VScode" 
-    title="VScode"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-<img
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-/>
+### 📊 Minhas Estatísticas no GitHub
 
-<br/>
-<br/>
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoandrade20&show_icons=true&count_private=true&theme=radical)
 
-### Estatísticas
-
-<p>
-
-<div>
-  <a href="https://github.com/gustavoandrade20">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavoandrade20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoandrade20&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoandrade20&layout=compact&theme=radical)
 
 
 
