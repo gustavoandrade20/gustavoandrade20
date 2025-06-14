@@ -76,13 +76,3 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio
 <br/>
 <br/>
 
-### Estatísticas
-
-<p>
-
-<div>
-  <a href="https://github.com/gustavoandrade20">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=gustavoandrade20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoandrade20&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
