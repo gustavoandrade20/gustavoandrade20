@@ -1,78 +1,46 @@
-## Oiee, seja bem vindo(a)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2f&height=150&section=header&text=Gustavo%20Andrade&fontSize=35&fontColor=ffffff" />
+</p>
 
-**`Desenvolvedor de Sistemas`**
+<h3 align="center">👋 Oi! Seja bem-vindo(a) ao meu GitHub</h3>
 
-Olá! Meu nome é Gustavo, tenho 20 anos e moro em Ribeirão das Neves, Minas Gerais.
-Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá. Tenho grande interesse pela área da tecnologia e estou sempre em busca de aprender novas ferramentas e linguagens que me ajudem a evoluir como desenvolvedor
+<p align="center">💻 Desenvolvedor de Sistemas </p>
 
 ---
 
-### Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="VScode" 
-    title="VScode"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-<img
-    align="left" 
-    alt="Pandas" 
-    title="Pandas"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-/>
+### 👨‍💻 Sobre mim
 
-<br/>
-<br/>
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá  
+- 🌍 Moro em Ribeirão das Neves - MG  
+- 🚀 Em constante aprendizado nas áreas de desenvolvimento de sistemas  
+- 🎯 Busco oportunidades para aplicar meus conhecimentos em projetos reais
 
+---
+
+### 🧰 Tecnologias e Ferramentas
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="28" title="Pandas"/>
+  <img src="https://img.shields.io/badge/JSON-%23ffffff.svg?style=for-the-badge&logo=json&logoColor=black" height="28" title="JSON"/>
+  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="28" title="SQL"/>
+</p>
+
+---
+
+### 📫 Contato
+
+- 📧 Email: gugufonseca.2004@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-andrade-59bb992a7)  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2f&height=120&section=footer"/>
+</p>
