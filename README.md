@@ -36,7 +36,7 @@
 
 ### 📫 Contato
 
-- 📧 Email: gugufonseca.2004@gmail.com  
+- 📧 Email: gugufonceca.2004@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-andrade-59bb992a7)  
 
 ---
