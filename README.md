@@ -19,19 +19,19 @@
 
 ### 🧰 Tecnologias e Ferramentas
 
-<p>
-  <strong>🖥️ Linguagens: </strong>
+<p align="center">
+  <strong>🖥️ Linguagens:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-</p>
+</p><br/>
 
 <p align="center">
   <strong>🎨 Front-end:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-</p>
+</p><br/>
 
 <p align="center">
   <strong>⚙️ Back-end:</strong><br/>
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" style="filter: invert(100%);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
   <img src="https://img.shields.io/badge/API-REST-blue?style=for-the-badge" height="28" title="API REST"/>
-</p>
+</p><br/>
 
 <p align="center">
   <strong>🗄️ Banco de Dados:</strong><br/>
@@ -47,12 +47,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="28" title="SQL"/>
-</p>
+</p><br/>
 
 <p align="center">
   <strong>☁️ Deploy / Cloud:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud Platform (GCP)"/>
-</p>
+</p><br/>
 
 <p align="center">
   <strong>🛠️ Ferramentas e Outras Tecnologias:</strong><br/>
@@ -60,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="28" title="Pandas"/>
   <img src="https://img.shields.io/badge/JSON-%23ffffff.svg?style=for-the-badge&logo=json&logoColor=black" height="28" title="JSON"/>
-</p>
+</p><br/>
 
 
 
