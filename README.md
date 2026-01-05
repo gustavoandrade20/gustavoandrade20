@@ -4,16 +4,30 @@
 
 <h3 align="center">👋 Oi! Seja bem-vindo(a) ao meu GitHub</h3>
 
-<p align="center">💻 Desenvolvedor de Sistemas </p>
+<p align="center">
+  💼 Salesforce Administrator Júnior | Automação de Processos • CRM • Dados
+</p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá  
-- 🌍 Moro em Ribeirão das Neves - MG  
-- 🚀 Em constante aprendizado nas áreas de desenvolvimento de sistemas  
-- 🎯 Busco oportunidades para aplicar meus conhecimentos em projetos reais
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá  
+- 🌍 Ribeirão das Neves - MG  
+- 🚀 Em constante aprendizado em Salesforce, automação de processos e organização de dados  
+- 🎯 Busco minha primeira oportunidade como **Salesforce Administrator Júnior ou Estágio**, atuando com CRM, automações e melhoria de processos de negócio  
+
+---
+
+### ☁️ Salesforce & CRM
+
+- Salesforce Platform (Trailhead)
+- Salesforce Flow (Screen Flow e Record-Triggered Flow)
+- Relatórios e Dashboards
+- Objetos personalizados e relacionamentos
+- Perfis, Permissões, Políticas de Senha e MFA
+- Noções de Service Cloud
+- Automação de processos e padronização de dados
 
 ---
 
@@ -27,18 +41,18 @@
 </p><br/>
 
 <p align="center">
-  <strong>🎨 Front-end:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-</p><br/>
-
-<p align="center">
   <strong>⚙️ Back-end:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" style="filter: invert(100%);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/>
   <img src="https://img.shields.io/badge/API-REST-blue?style=for-the-badge" height="28" title="API REST"/>
+</p><br/>
+
+<p align="center">
+  <strong>🎨 Front-end:</strong><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
 </p><br/>
 
 <p align="center">
@@ -50,26 +64,18 @@
 </p><br/>
 
 <p align="center">
-  <strong>☁️ Deploy / Cloud:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud Platform (GCP)"/>
-</p><br/>
-
-<p align="center">
-  <strong>🛠️ Ferramentas e Outras Tecnologias:</strong><br/>
+  <strong>🛠️ Ferramentas:</strong><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="28" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
   <img src="https://img.shields.io/badge/JSON-%23ffffff.svg?style=for-the-badge&logo=json&logoColor=black" height="28" title="JSON"/>
-</p><br/>
-
-
+</p>
 
 ---
 
 ### 📫 Contato
 
-- 📧 Email: gugufonceca.2004@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-andrade-59bb992a7)  
+- 📧 Email: gustavo.fonceca2004@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-andrade-59bb992a7)
 
 ---
 
